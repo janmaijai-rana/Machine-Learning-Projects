@@ -1,0 +1,9 @@
+costFunction	costFunction.m	/^function [J, grad] = costFunction(theta, X, y)$/;"	f
+costFunctionReg	costFunctionReg.m	/^function [J, grad] = costFunctionReg(theta, X, y, lambda)$/;"	f
+mapFeature	mapFeature.m	/^function out = mapFeature(X1, X2)$/;"	f
+plotData	plotData.m	/^function plotData(X, y)$/;"	f
+plotDecisionBoundary	plotDecisionBoundary.m	/^function plotDecisionBoundary(theta, X, y)$/;"	f
+predict	predict.m	/^function p = predict(theta, X)$/;"	f
+sigmoid	sigmoid.m	/^function g = sigmoid(z)$/;"	f
+submit	submit.m	/^function submit()$/;"	f
+output	submit.m	/^function out = output(partId, auxstring)$/;"	f
